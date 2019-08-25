@@ -62,28 +62,28 @@ estudiantes <- readLines(estfuente)
 cat(
   'En fecha/hora: ',
   date(),
-  ', aparecían como registradas', '\n',
+  ', aparecían registradas', '\n',
   'las siguientes cuentas como miembros/as o colaboradores externos/as: ', '\n',
   paste(estudiantes, collapse = '\n'),
   sep = ''
 )
 ```
 
-    ## En fecha/hora: Sun Aug 25 17:33:18 2019, aparecían como registradas
+    ## En fecha/hora: Sun Aug 25 17:43:47 2019, aparecían registradas
     ## las siguientes cuentas como miembros/as o colaboradores externos/as: 
     ## AbigailCP
     ## BidelkisCastillo
+    ## dahianagb07
     ## enrique193
     ## Erasbel05
-    ## jimenezsosa
-    ## Jorge-Mutonen
-    ## merali-rosario
-    ## ramosramos1886
-    ## victorcabsid
-    ## yanderlin
-    ## dahianagb07
     ## geofis
     ## hoyodepelempito
+    ## jimenezsosa
+    ## Jorge-Mutonen
     ## Mangoland
     ## maritzafg
+    ## merali-rosario
+    ## ramosramos1886
     ## sanchez26
+    ## victorcabsid
+    ## yanderlin

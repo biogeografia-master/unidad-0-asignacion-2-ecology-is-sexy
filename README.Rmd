@@ -63,7 +63,7 @@ estudiantes <- readLines(estfuente)
 cat(
   'En fecha/hora: ',
   date(),
-  ', aparecían como registradas', '\n',
+  ', aparecían registradas', '\n',
   'las siguientes cuentas como miembros/as o colaboradores externos/as: ', '\n',
   paste(estudiantes, collapse = '\n'),
   sep = ''
