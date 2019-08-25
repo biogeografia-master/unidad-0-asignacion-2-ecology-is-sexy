@@ -1,22 +1,31 @@
 
 <!-- Este .md fue generado a partir del .Rmd homónimo. Edítese el .Rmd -->
-"Ecology is sexy"
-=================
-
-OK, llegamos donde teníamos que llegar.
-
-Revisa la referencia "Borcard, D., Gillet, F., & Legendre, P. (2018). *Numerical ecology with R*. Springer.". Preparé preguntas según secciones del libro de referencia. Responde cada ítem numerado.
-
 Lista de estudiantes en la organización
 ---------------------------------------
 
 ``` r
 estfuente <- 'https://raw.githubusercontent.com/biogeografia-201902/miembros-y-colaboradores/master/suscripciones_github.txt'
 estudiantes <- readLines(estfuente)
+cat(
+  'En fecha/hora: ',
+  date(),
+  ', estaban registradas las siguientes cuentas como miembros/as o colaboradores externos/as: ',
+  paste(estudiantes, collapse = ', '),
+  sep = ''
+)
 ```
 
-Ítems numerados
----------------
+    ## En fecha/hora: Sun Aug 25 15:39:06 2019, estaban registradas las siguientes cuentas como miembros/as o colaboradores externos/as: AbigailCP, BidelkisCastillo, enrique193, Erasbel05, jimenezsosa, Jorge-Mutonen, merali-rosario, ramosramos1886, victorcabsid, yanderlin, dahianagb07, geofis, hoyodepelempito, Mangoland, maritzafg, sanchez26
+
+"Ecology is sexy"
+=================
+
+OK, llegamos donde teníamos que llegar.
+
+Revisa la referencia "Borcard, D., Gillet, F., & Legendre, P. (2018). *Numerical ecology with R*. Springer.". Preparé preguntas y mandatos según secciones del libro de referencia. Responde a cada una.
+
+Preguntas, mandatos
+-------------------
 
 1.  Escribe un párrafo de no más de 10 líneas conteniendo: resumen de las respuestas, tu valoración/opinión
 
