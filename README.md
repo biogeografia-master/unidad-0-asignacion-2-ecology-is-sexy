@@ -1,6 +1,4 @@
 
-.level-3 { padding-left: 5em; }
-
 <!-- Este .md fue generado a partir del .Rmd homónimo. Edítese el .Rmd -->
 "Ecology is sexy"
 =================
@@ -21,10 +19,6 @@ set.seed(99)
 Ítems numerados
 ---------------
 
-<section class="level-3">
-### Prefacio
-
-</section>
     ### Prefacio
 
 1.  ¿Describe qué significa para ti que los autores se refieran a "audiencias con buena predisposición"? ¿Por qué entiendes que los autores introducen dicho asunto?
