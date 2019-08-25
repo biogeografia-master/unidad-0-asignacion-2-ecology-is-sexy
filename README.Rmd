@@ -8,19 +8,21 @@ output: github_document
 
 OK, llegamos donde teníamos que llegar.
 
-Revisa la referencia "Borcard, D., Gillet, F., & Legendre, P. (2018). *Numerical ecology with R*. Springer.". Preparé preguntas según secciones del libro de referencia. Revisa cuáles ítem numerados abajo contiene debes responder. Si quieres hacerlo todo para practicar/aprender, perfecto.
+Revisa la referencia "Borcard, D., Gillet, F., & Legendre, P. (2018). *Numerical ecology with R*. Springer.". Preparé preguntas según secciones del libro de referencia. Responde cada ítem numerado.
 
-## Lista de estudiantes en la organización y asignaciones
+## Lista de estudiantes en la organización
 
 ```{r}
 estfuente <- 'https://raw.githubusercontent.com/biogeografia-201902/miembros-y-colaboradores/master/suscripciones_github.txt'
 estudiantes <- readLines(estfuente)
-set.seed(99)
-
 ```
 
 ## Ítems numerados
 
+0. Escribe un párrafo de no más de 10 líneas conteniendo: resumen de las respuestas, tu valoración/opinión
+
+    Tu respuesta, aquí: ...
+    
     ### Prefacio
 
 1. ¿Describe qué significa para ti que los autores se refieran a "audiencias con buena predisposición"? ¿Por qué entiendes que los autores introducen dicho asunto?
@@ -39,4 +41,4 @@ set.seed(99)
 
     ### Contenido
 
-4. Con lo visto leído en el prefacio, ¿podrías precisar qué distingue ecología de ecologismo?
+4. Con lo visto leído en el prefacio, ¿podrías precisar diferencias y puntos de encuentro entre ecología y ecologismo?
