@@ -10,7 +10,7 @@ Lee el Prefacio y la sección 1.3 de "Borcard, D., Gillet, F., & Legendre, P. (2
 Preguntas/mandatos
 ------------------
 
--   ¿Cuántas citas aparecen en GoogleScholar para la obra de referencia? ¿Cuántas citas aparecen, igualmente GS, en la edición de 2012?
+-   ¿Cuántas citas aparecen en GoogleScholar (GS) para la obra de referencia? ¿Cuántas citas aparecen, igualmente en GS, en la edición de 2012?
 
     Tu respuesta, aquí: ...
 
@@ -73,7 +73,7 @@ cat(
 )
 ```
 
-    ## En fecha/hora: Sun Aug 25 18:07:48 2019, aparecían registradas
+    ## En fecha/hora: Mon Aug 26 12:47:03 2019, aparecían registradas
     ## las siguientes cuentas como miembros/as o colaboradores externos/as: 
     ## AbigailCP (C)
     ## BidelkisCastillo (C)
