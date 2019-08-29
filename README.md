@@ -73,23 +73,24 @@ cat(
 )
 ```
 
-    ## En fecha/hora: Mon Aug 26 12:47:03 2019, aparecían registradas
+    ## En fecha/hora: Thu Aug 29 11:34:35 2019, aparecían registradas
     ## las siguientes cuentas como miembros/as o colaboradores externos/as: 
-    ## AbigailCP (C)
-    ## BidelkisCastillo (C)
+    ## AbigailCP (M)
+    ## BidelkisCastillo (M)
     ## dahianagb07 (M)
+    ## emdilone (M)
     ## enrique193 (M)
     ## Erasbel05 (C)
     ## geofis (M)
     ## hoyodepelempito (M)
-    ## jimenezsosa (C)
-    ## Jorge-Mutonen (C)
+    ## jimenezsosa (M)
+    ## Jorge-Mutonen (M)
     ## Mangoland (M)
     ## maritzafg (M)
     ## merali-rosario (C)
-    ## ramosramos1886 (C)
+    ## ramosramos1886 (M)
     ## sanchez26 (M)
-    ## victorcabsid (C)
-    ## yanderlin (C)
+    ## victorcabsid (M)
+    ## yanderlin (M)
 
 -   **Nota**: Quienes aparecen con la coletilla "(C)" tienen estatus de "colaboradores externos", porque no han aceptado la invitación a formar parte como miembros de la organización "biogeografia-201902". Es necesario que acepten dicha invitación, que debieron haber recibido por correo en días pasados, para facilitar así las notificaciones.
